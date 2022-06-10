@@ -1,0 +1,15 @@
+D:\C#\NullCheck\obj\Debug\net6.0\NullCheck.csproj.AssemblyReference.cache
+D:\C#\NullCheck\obj\Debug\net6.0\NullCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\NullCheck\obj\Debug\net6.0\NullCheck.AssemblyInfoInputs.cache
+D:\C#\NullCheck\obj\Debug\net6.0\NullCheck.AssemblyInfo.cs
+D:\C#\NullCheck\obj\Debug\net6.0\NullCheck.csproj.CoreCompileInputs.cache
+D:\C#\NullCheck\bin\Debug\net6.0\NullCheck.exe
+D:\C#\NullCheck\bin\Debug\net6.0\NullCheck.deps.json
+D:\C#\NullCheck\bin\Debug\net6.0\NullCheck.runtimeconfig.json
+D:\C#\NullCheck\bin\Debug\net6.0\NullCheck.dll
+D:\C#\NullCheck\bin\Debug\net6.0\ref\NullCheck.dll
+D:\C#\NullCheck\bin\Debug\net6.0\NullCheck.pdb
+D:\C#\NullCheck\obj\Debug\net6.0\NullCheck.dll
+D:\C#\NullCheck\obj\Debug\net6.0\ref\NullCheck.dll
+D:\C#\NullCheck\obj\Debug\net6.0\NullCheck.pdb
+D:\C#\NullCheck\obj\Debug\net6.0\NullCheck.genruntimeconfig.cache
