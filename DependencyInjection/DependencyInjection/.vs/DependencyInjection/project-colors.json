@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aaff3db7-33da-4614-a86b-f0428ee5b6b2": {
+      "ProjectGuid": "aaff3db7-33da-4614-a86b-f0428ee5b6b2",
+      "DisplayName": "DIAddMethod",
+      "ColorIndex": 0
+    },
+    "0fa8652e-1e55-453d-b6d0-1c03dfcbcf1b": {
+      "ProjectGuid": "0fa8652e-1e55-453d-b6d0-1c03dfcbcf1b",
+      "DisplayName": "DITryAddMethod",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
