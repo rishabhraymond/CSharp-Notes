@@ -1,0 +1,15 @@
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\bin\Debug\net6.0\WithoutSingleton.exe
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\bin\Debug\net6.0\WithoutSingleton.deps.json
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\bin\Debug\net6.0\WithoutSingleton.runtimeconfig.json
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\bin\Debug\net6.0\WithoutSingleton.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\bin\Debug\net6.0\ref\WithoutSingleton.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\bin\Debug\net6.0\WithoutSingleton.pdb
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\obj\Debug\net6.0\WithoutSingleton.csproj.AssemblyReference.cache
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\obj\Debug\net6.0\WithoutSingleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\obj\Debug\net6.0\WithoutSingleton.AssemblyInfoInputs.cache
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\obj\Debug\net6.0\WithoutSingleton.AssemblyInfo.cs
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\obj\Debug\net6.0\WithoutSingleton.csproj.CoreCompileInputs.cache
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\obj\Debug\net6.0\WithoutSingleton.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\obj\Debug\net6.0\ref\WithoutSingleton.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\obj\Debug\net6.0\WithoutSingleton.pdb
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\WithoutSingleton\obj\Debug\net6.0\WithoutSingleton.genruntimeconfig.cache
