@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P7M9qeYHuCm6NZndQ7BHH3GGLFCefCvD2dJ/76zgfzA=",
+  "Source": "BackgroundSchedulerPeriodicTimer",
+  "BasePath": "_content/BackgroundSchedulerPeriodicTimer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

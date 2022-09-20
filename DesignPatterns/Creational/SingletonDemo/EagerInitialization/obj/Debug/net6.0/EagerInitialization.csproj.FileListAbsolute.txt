@@ -1,0 +1,15 @@
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\bin\Debug\net6.0\EagerInitialization.exe
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\bin\Debug\net6.0\EagerInitialization.deps.json
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\bin\Debug\net6.0\EagerInitialization.runtimeconfig.json
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\bin\Debug\net6.0\EagerInitialization.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\bin\Debug\net6.0\ref\EagerInitialization.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\bin\Debug\net6.0\EagerInitialization.pdb
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\obj\Debug\net6.0\EagerInitialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\obj\Debug\net6.0\EagerInitialization.AssemblyInfoInputs.cache
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\obj\Debug\net6.0\EagerInitialization.AssemblyInfo.cs
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\obj\Debug\net6.0\EagerInitialization.csproj.CoreCompileInputs.cache
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\obj\Debug\net6.0\EagerInitialization.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\obj\Debug\net6.0\ref\EagerInitialization.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\obj\Debug\net6.0\EagerInitialization.pdb
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\obj\Debug\net6.0\EagerInitialization.genruntimeconfig.cache
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\EagerInitialization\obj\Debug\net6.0\EagerInitialization.csproj.AssemblyReference.cache

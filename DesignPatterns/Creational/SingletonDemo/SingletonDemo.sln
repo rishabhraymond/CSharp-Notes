@@ -5,7 +5,13 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonUse", "SingletonUse\SingletonUse.csproj", "{27299AD2-4BF9-4B23-9627-5B8738F61483}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithoutSingleton", "WithoutSingleton\WithoutSingleton.csproj", "{D73207AC-39D1-47B8-9FA1-CDF7D981D82E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithoutSingleton", "WithoutSingleton\WithoutSingleton.csproj", "{D73207AC-39D1-47B8-9FA1-CDF7D981D82E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoubleCheckLocking", "DoubleCheckLocking\DoubleCheckLocking.csproj", "{F2C8B301-6E35-4F04-828A-11087CFB7BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EagerInitialization", "EagerInitialization\EagerInitialization.csproj", "{00554FDD-DF25-4F53-B074-EBA8338B4D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLazyLoading", "SimpleLazLoading\SimpleLazyLoading.csproj", "{3E6534FC-A8E5-4513-95D3-29931EAFA9EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{D73207AC-39D1-47B8-9FA1-CDF7D981D82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D73207AC-39D1-47B8-9FA1-CDF7D981D82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D73207AC-39D1-47B8-9FA1-CDF7D981D82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C8B301-6E35-4F04-828A-11087CFB7BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C8B301-6E35-4F04-828A-11087CFB7BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C8B301-6E35-4F04-828A-11087CFB7BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C8B301-6E35-4F04-828A-11087CFB7BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00554FDD-DF25-4F53-B074-EBA8338B4D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00554FDD-DF25-4F53-B074-EBA8338B4D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00554FDD-DF25-4F53-B074-EBA8338B4D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00554FDD-DF25-4F53-B074-EBA8338B4D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6534FC-A8E5-4513-95D3-29931EAFA9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6534FC-A8E5-4513-95D3-29931EAFA9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6534FC-A8E5-4513-95D3-29931EAFA9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6534FC-A8E5-4513-95D3-29931EAFA9EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,7 +10,12 @@
       "ProjectGuid": "d73207ac-39d1-47b8-9fa1-cdf7d981d82e",
       "DisplayName": "WithoutSingleton",
       "ColorIndex": 1
+    },
+    "f2c8b301-6e35-4f04-828a-11087cfb7ba7": {
+      "ProjectGuid": "f2c8b301-6e35-4f04-828a-11087cfb7ba7",
+      "DisplayName": "DoubleCheckLocking",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

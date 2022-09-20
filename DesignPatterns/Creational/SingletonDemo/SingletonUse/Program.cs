@@ -7,20 +7,22 @@ fromTeacher.PrintPerson("Teacher created");
 var fromStudent = Person.GetInstance;
 fromStudent.PrintPerson("Student created");
 
-Parallel.Invoke(
-    () => PrintTeacher(),
-    () => PrintTeacher()
-);
+
+// Comment the line above and uncomment the line below before executing these 
+//Parallel.Invoke(
+//    () => PrintTeacher(),
+//    () => PrintTeacher()
+//);
 
 
-static void PrintStudent()
-{
-    var fromStudent = Person.GetInstance;
-    fromStudent.PrintPerson("Student created");
-}
+//static void PrintStudent()
+//{
+//    var fromStudent = Person.GetInstance;
+//    fromStudent.PrintPerson("Student created");
+//}
 
-static void PrintTeacher()
-{
-    var fromTeacher = Person.GetInstance;
-    fromTeacher.PrintPerson("Teacher created");
-}
+//static void PrintTeacher()
+//{
+//    var fromTeacher = Person.GetInstance;
+//    fromTeacher.PrintPerson("Teacher created");
+//}
