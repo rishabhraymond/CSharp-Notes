@@ -1,0 +1,15 @@
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\bin\Debug\net6.0\DoubleCheckLocking.exe
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\bin\Debug\net6.0\DoubleCheckLocking.deps.json
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\bin\Debug\net6.0\DoubleCheckLocking.runtimeconfig.json
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\bin\Debug\net6.0\DoubleCheckLocking.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\bin\Debug\net6.0\ref\DoubleCheckLocking.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\bin\Debug\net6.0\DoubleCheckLocking.pdb
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\obj\Debug\net6.0\DoubleCheckLocking.csproj.AssemblyReference.cache
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\obj\Debug\net6.0\DoubleCheckLocking.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\obj\Debug\net6.0\DoubleCheckLocking.AssemblyInfoInputs.cache
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\obj\Debug\net6.0\DoubleCheckLocking.AssemblyInfo.cs
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\obj\Debug\net6.0\DoubleCheckLocking.csproj.CoreCompileInputs.cache
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\obj\Debug\net6.0\DoubleCheckLocking.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\obj\Debug\net6.0\ref\DoubleCheckLocking.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\obj\Debug\net6.0\DoubleCheckLocking.pdb
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\DoubleCheckLocking\obj\Debug\net6.0\DoubleCheckLocking.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8192eeeb-3a46-480c-92b7-b80bc31ae66f": {
+      "ProjectGuid": "8192eeeb-3a46-480c-92b7-b80bc31ae66f",
+      "DisplayName": "BackgroundSchedulerPeriodicTimer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

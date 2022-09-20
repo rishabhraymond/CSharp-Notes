@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rlGUG6TkUR9BJEH3Ll/hWZjYTNVOtcf8j7YDOq0NFdMMuWWDUD0ceLWs0yLN20SYuMli/sWBljIXFEVQpPg3A==",
+  "success": true,
+  "projectFilePath": "D:\\C# Notes\\CSharp-Notes\\SchedulingTasks\\BackgroundSchedulerPeriodicTimer\\BackgroundSchedulerPeriodicTimer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rishabh Sinha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rishabh Sinha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rishabh Sinha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rishabh Sinha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rishabh Sinha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rishabh Sinha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

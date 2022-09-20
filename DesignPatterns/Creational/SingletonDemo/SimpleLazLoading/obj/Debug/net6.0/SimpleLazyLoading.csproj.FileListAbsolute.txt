@@ -1,0 +1,14 @@
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\bin\Debug\net6.0\SimpleLazyLoading.exe
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\bin\Debug\net6.0\SimpleLazyLoading.deps.json
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\bin\Debug\net6.0\SimpleLazyLoading.runtimeconfig.json
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\bin\Debug\net6.0\SimpleLazyLoading.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\bin\Debug\net6.0\ref\SimpleLazyLoading.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\bin\Debug\net6.0\SimpleLazyLoading.pdb
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\obj\Debug\net6.0\SimpleLazyLoading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\obj\Debug\net6.0\SimpleLazyLoading.AssemblyInfoInputs.cache
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\obj\Debug\net6.0\SimpleLazyLoading.AssemblyInfo.cs
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\obj\Debug\net6.0\SimpleLazyLoading.csproj.CoreCompileInputs.cache
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\obj\Debug\net6.0\SimpleLazyLoading.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\obj\Debug\net6.0\ref\SimpleLazyLoading.dll
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\obj\Debug\net6.0\SimpleLazyLoading.pdb
+D:\C# Notes\CSharp-Notes\DesignPatterns\Creational\SingletonDemo\SimpleLazLoading\obj\Debug\net6.0\SimpleLazyLoading.genruntimeconfig.cache
